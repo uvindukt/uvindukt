@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/uvindusanjana" target="_blank">
+<a href="https://www.linkedin.com/in/uvindusanjana" target="_blank" rel="noreferrer noopener">
   <div id="badges">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
