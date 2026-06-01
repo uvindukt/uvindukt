@@ -32,7 +32,7 @@
     </td>
     <td>
       <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="80" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="background-color: white; border-radius: 50%; border: 4px solid white; box-sizing: border-box;"/>
       </a>
     </td>
     <td>
