@@ -21,6 +21,11 @@
       </a>
     </td>
     <td>
+      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
       </a>
