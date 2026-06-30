@@ -42,7 +42,7 @@
     </td>
     <td>
       <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="claude" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Claude_AI_symbol.svg" alt="claude" width="40" height="40"/>
       </a>
     </td>
   </tr>
