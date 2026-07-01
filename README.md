@@ -42,7 +42,7 @@
     </td>
     <td>
       <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" alt="claude" width="40" height="40" style="filter: invert(53%) sepia(21%) saturate(1478%) hue-rotate(334deg) brightness(89%) contrast(85%);"/>
+        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" alt="claude" width="40" height="40"/>
       </a>
     </td>
     <td>
