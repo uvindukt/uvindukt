@@ -47,7 +47,7 @@
     </td>
     <td>
       <a href="https://spring.io/projects/spring-ai" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/spring.svg" alt="spring-ai" width="40" height="40"/>
+        <img src="https://spring.io/img/projects/spring-ai.svg" alt="spring-ai" width="40" height="40"/>
       </a>
     </td>
   </tr>
