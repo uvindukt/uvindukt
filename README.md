@@ -1,4 +1,4 @@
-### 🛠️ Tech Stack & Research
+### 🛠️ Tech Stack & Skills
 
 **Backend & Frontend**
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
@@ -14,7 +14,14 @@
 [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 
-**AI & Research**
+**AI Engineering**
 [![Claude](https://img.shields.io/badge/Claude-D97756?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
 [![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
-[![Springer Research Paper](https://img.shields.io/badge/Springer-Published_Research-orange?style=flat-square)](https://link.springer.com/chapter/10.1007/978-3-030-80126-7_56)
+
+---
+
+### 📚 Research & Publications
+
+[![Springer Link](https://img.shields.io/badge/Springer-Published_Research-orange?style=flat-square)](https://link.springer.com/chapter/10.1007/978-3-030-80126-7_56)
+> **CreditX: A Decentralized and Secure Credit Platform for Higher Educational Institutes Based on Blockchain Technology**
+> *Exploring trust framework architectures, inter-university student mobility, and credit automation using blockchain systems.*
