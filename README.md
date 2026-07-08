@@ -16,6 +16,7 @@
 
 **AI Engineering**
 [![Claude](https://img.shields.io/badge/Claude-D97756?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
+[![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)](https://aistudio.google.com/)
 [![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
 
 ---
