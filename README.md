@@ -1,54 +1,20 @@
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40" style="background-color: white; border-radius: 50%; border: 4px solid white; box-sizing: border-box;"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://redis.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/claude/default.svg" alt="claude" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://spring.io/projects/spring-ai" target="_blank" rel="noreferrer">
-        <img src="https://spring.io/img/projects/spring-ai.svg" alt="spring-ai" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Stack & Research
+
+**Backend & Frontend**
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io)
+
+**DevOps & Cloud**
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+**Data & Messaging**
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)](https://kafka.apache.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+
+**AI & Research**
+[![Claude](https://img.shields.io/badge/Claude-D97756?style=flat-square&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
+[![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/projects/spring-ai)
+[![Springer Research Paper](https://img.shields.io/badge/Springer-Published_Research-orange?style=flat-square)](https://link.springer.com/chapter/10.1007/978-3-030-80126-7_56)
